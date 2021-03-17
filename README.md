@@ -3,6 +3,8 @@ I am a TA of Numerical Analysis in the semester of 2020-21-2 in SUFE. I write so
 - A lecture note I wrote last year when I was a student of the lecture
 - Six supplementary materials of all the chapters which will be taught in the class
 
+(All matrials are in **Chinese**.)
+
 The contents include:
 - An intro. of numerical analysis
 - Interpolation
